@@ -3,12 +3,12 @@
 
 # TEAM
 
-  akveo.com
+  octubre.com
 
 # THANKS
 
   <name>
-  Akveo Team
+  Octubre Softlab
 
 # TECHNOLOGY COLOPHON
 
